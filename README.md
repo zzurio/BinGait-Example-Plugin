@@ -1,4 +1,4 @@
-# BinGait example plugin
+# BinGait Example Plugin
 
 This is a simple example plugin on how to get started on making your plugin for BinGait.
 
